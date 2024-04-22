@@ -5,3 +5,4 @@ archive
 archive.tar.gz
 *.csv
 *.h5
+*.pt
